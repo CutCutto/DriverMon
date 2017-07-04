@@ -16,6 +16,8 @@ namespace DriverMonitor
             //MainPage = new DriverMonitor.MainPage();
 
             MainPage = new NavigationPage(new MainPage());
+
+            // Fuck Tong
         }
 
         protected override void OnStart()
