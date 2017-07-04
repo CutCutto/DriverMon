@@ -5,6 +5,8 @@
              x:Class="DriverMonitor.MainPage" Title="Driver Monitor">
 
     <StackLayout>
+        <!-- Test1 -->
+        <!-- Test2 -->
         <Label Text="Register" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
