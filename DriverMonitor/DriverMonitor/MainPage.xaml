@@ -7,6 +7,8 @@
     <StackLayout>
         <!-- Test1 -->
         <!-- Test2 -->
+
+        <!-- By Arm -->
         <Label Text="Register" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
