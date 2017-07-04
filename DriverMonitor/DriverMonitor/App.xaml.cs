@@ -18,6 +18,7 @@ namespace DriverMonitor
             MainPage = new NavigationPage(new MainPage());
 
             // Fuck Tong
+            // Fuck Tong ภาค 2
         }
 
         protected override void OnStart()
