@@ -21,6 +21,11 @@ namespace DriverMonitor
             // Fuck Tong ภาค 2
         }
 
+        private void FunckTong2()
+        {
+            // Waiting for implement *-*!
+        }
+
         protected override void OnStart()
         {
             // Handle when your app starts
