@@ -7,7 +7,7 @@
             <Entry Placeholder="Email" x:Name="enEmail" ></Entry>
 
             <Entry Placeholder="Password" x:Name="enPassword" ></Entry>
-
+<!-- Sign In button -->
             <Button x:Name="btnSignIn" Clicked="btnSignIn_Clicked" Text="Sign In" ></Button>
         </StackLayout>
     </ContentPage.Content>
